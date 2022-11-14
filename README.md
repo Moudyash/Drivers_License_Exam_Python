@@ -23,6 +23,8 @@ Chloe
 ```
 Also, to reorganize the order of list items you can use the `shuffle()` method from the same module. This method takes a sequence, like a list, and changes the original list, it does not return a new list.
 <h1>OUTPUT</h1>
+![image](https://user-images.githubusercontent.com/83330641/201609980-4809a77a-581f-4243-b21d-f4a5e49e1c61.png)
+
 user answer ['B', 'B', 'C', 'A', 'C', 'A', 'A', 'A', 'A', 'A', 'C', 'B', 'B', 'A', 'B', 'A', 'B', 'C', 'B', 'C']
 correct answer ['A', 'C', 'A', 'A', 'D', 'B', 'C', 'A', 'C', 'B', 'A', 'D', 'C', 'A', 'D', 'C', 'B', 'B', 'D', 'A']
 You failed
